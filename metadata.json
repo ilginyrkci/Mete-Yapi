@@ -1,0 +1,8 @@
+{
+  "name": "Mete Banyo & Seramik",
+  "description": "Özel safir lacivert banyo dolapları, mermer desen kalebodur seramikler, duşakabin ve armatür sistemleri.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
